@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|c:\\users\\alecp\\source\\repos\\nocap\\backend\\apifun\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|c:\\users\\alecp\\source\\repos\\nocap\\backend\\apifun\\controllers\\marriottfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|solutionrelative:controllers\\marriottfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|c:\\users\\alecp\\source\\repos\\nocap\\backend\\apifun\\controllers\\data\\effoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E1724-700E-4851-91D2-6BF71C46430D}|APIFun.csproj|solutionrelative:controllers\\data\\effoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:15:59.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Controllers\\Data\\EFFoodRepository.cs",
+              "RelativeDocumentMoniker": "Controllers\\Data\\EFFoodRepository.cs",
+              "ToolTip": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Controllers\\Data\\EFFoodRepository.cs",
+              "RelativeToolTip": "Controllers\\Data\\EFFoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:23:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarriottFoodController.cs",
+              "DocumentMoniker": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Controllers\\MarriottFoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarriottFoodController.cs",
+              "ToolTip": "C:\\Users\\alecp\\source\\repos\\NoCap\\backend\\APIFun\\Controllers\\MarriottFoodController.cs",
+              "RelativeToolTip": "Controllers\\MarriottFoodController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:18:31.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
