@@ -125,3 +125,4 @@ C:\Users\alecp\source\repos\NoCap\backend\APIFun\obj\Debug\net8.0\refint\APIFun.
 C:\Users\alecp\source\repos\NoCap\backend\APIFun\obj\Debug\net8.0\APIFun.pdb
 C:\Users\alecp\source\repos\NoCap\backend\APIFun\obj\Debug\net8.0\APIFun.genruntimeconfig.cache
 C:\Users\alecp\source\repos\NoCap\backend\APIFun\obj\Debug\net8.0\ref\APIFun.dll
+C:\Users\alecp\source\repos\NoCap\backend\APIFun\obj\Debug\net8.0\APIFun.sourcelink.json

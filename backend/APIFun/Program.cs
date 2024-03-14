@@ -1,4 +1,4 @@
-using APIFun.Controllers.Data;
+using APIFun.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,11 +12,12 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors();
 
-builder.Services.AddDbContext<FoodContext>(options =>
-    options.UseSqlite(builder.Configuration["ConnectionStrings:FoodConnection"])
+builder.Services.AddDbContext<BowlingLeagueContext>(options =>
+    options.UseSqlite(builder.Configuration["ConnectionStrings:BLConnection"])
 );
 
-builder.Services.AddScoped<IFoodRepository, EFFoodRepository>();
+builder.Services.AddScoped<IBowlingLeague, EFBowlingLeague>();
+builder.Services.AddScoped<ITeams, EFTeams>();
 
 var app = builder.Build();
 
